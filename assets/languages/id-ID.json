@@ -1,0 +1,10 @@
+{
+  "home": {
+    "home": "Beranda",
+    "welcomeMessage": "Hi Nasabah, Silahkan login untuk menikmati seluruh fasilitas vega",
+    "registerWithNoPolicyOrQR": "Daftar dengan no. polis atau scan QR. Login dengan username dan password Anda",
+    "news": "Berita",
+    "article": "Artikel",
+    "seeAllArticles": "Lihat semua artikel"
+  }
+}

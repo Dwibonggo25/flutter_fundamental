@@ -32,6 +32,18 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  # our features module
+  main:
+    path: features/main
+  authentification:
+    path: features/authentification
+  # our modules
+  core:
+    path: libraries/core
+  dependencies:
+    path: libraries/dependencies
+  shared:
+    path: libraries/shared
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -40,3 +52,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/articles.json
+    - assets/languages/

@@ -2,11 +2,10 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 
 class PlatformWidget extends StatelessWidget {
-
   final WidgetBuilder androidBuilder;
   final WidgetBuilder iosBuilder;
 
-  PlatformWidget ({@required this.androidBuilder, @required this.iosBuilder});
+  PlatformWidget({@required this.androidBuilder, @required this.iosBuilder});
 
   @override
   Widget build(BuildContext context) {

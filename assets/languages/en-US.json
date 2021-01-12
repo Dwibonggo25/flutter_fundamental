@@ -1,0 +1,10 @@
+{
+  "home": {
+    "home": "Home",
+    "welcomeMessage": "Hi guest, please log in to enjoy all the facilities of vega",
+    "registerWithNoPolicyOrQR": "Register with no. policy or QR scan. Login with your username and password",
+    "news": "News",
+    "article": "Article",
+    "seeAllArticles": "See All Articles"
+  }
+}
